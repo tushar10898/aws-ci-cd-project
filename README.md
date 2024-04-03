@@ -50,8 +50,8 @@ The CI/CD pipeline for this project is built using AWS CodePipeline, AWS CodeBui
 If you encounter deployment errors related to the CodeDeploy agent, follow these steps:
 1. SSH into your EC2 instance.
 2. Paste the `codedeployagent.sh` script provided in the repository in vim editor [plese edit region of aws deploy and s3,in my case it was us-east-1 ]
-   
-4. Run the script to set up the CodeDeploy agent.
+3. Run the script to set up the CodeDeploy agent.
+4. Make sure codedeploy-agent service up and running
 5. Retry the deployment process.
 
 ## Note
