@@ -1,6 +1,7 @@
 # AWS CI/CD APP
 
 This project is a demonstration of setting up a CI/CD pipeline on AWS for automated deployment.
+![1](https://github.com/tushar10898/aws-ci-cd-project/assets/165803170/78ce1f0c-5531-4e1e-ad63-d675dcb1dabd)
 
 ## Table of Contents
 1. [Introduction](#introduction)
